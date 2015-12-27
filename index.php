@@ -9,7 +9,7 @@
 print("<h2 align=center>Menü</h2>");
 print("
 <ul>
-    <li><a href='/javascript.php'></a></a></li>
+    <li><a href='/javascript.php'>Javascript</a></li>
     <li></li>
 </ul>
 
