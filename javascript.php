@@ -6,7 +6,7 @@
  * Time: 10:08
  */
 
-print("all clients synct");
+print("all clients synct!!!");
 
 
 ?>
