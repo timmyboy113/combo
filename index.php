@@ -6,6 +6,8 @@
  * Time: 10:01
  */
 
+include 'need/header.php';
+
 print("<h2 align=center>Menü</h2>");
 print("
 <ul>
