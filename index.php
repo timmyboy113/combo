@@ -8,11 +8,14 @@
 
 include 'need/header.php';
 
+
+
 print("<h2 align=center>Menü</h2>");
 print("
 <ul>
     <li><a href='/javascript.php'>Javascript</a></li>
-    <li><a href='/need/mysql.php'>meta_mysql</a> </li>
+    <li><a href='/need/mysql.php'>meta_mysql</a>
+     </li>
 </ul>
 
 ");

