@@ -6,20 +6,37 @@
  * Time: 10:08
  */
 
+include 'need/header.php';
+include 'need/top-menu.php';
+
 print("
     <head>
     <script src='need/jquery-2.1.4.min.js'></script>
     </head>"
 );
 
-print("all clients synct!!! </br></br>");
 
-print('
+
+print('<div align="center">
     Javascript output: </br>
-    <script language="javascript" type="text/javascript" src="/data/js/sync.js"></script>
+   
 
     <p>Wert: </p>
     <P id="wert"></P>
+    
+    </div>
+    
+     <script>
+    
+    $(document).ready(function(){
+    $("#wert").text("No Data");
+
+    $("#wert").load("data/texts/ajax_wert.txt");
+});
+    
+    </script>
+    
+    
 ');
 
 
