@@ -22,7 +22,7 @@ print("
         <a class=\"nav-link\" href=\"index.php\">Home</a>
       </li>
       <li class=\"nav-item\">
-        <a class=\"nav-link\" href=\"javascript.php\">Javascript</a>
+        <a class=\"nav-link\" href=\"javascript-menu.php\">Javascript</a>
       </li>
       <li class=\"nav-item\">
         <a class=\"nav-link disabled\" href=\"#\">Disabled</a>
