@@ -10,7 +10,7 @@
 /* include Bottstrap,Font awsome,Jquery */
 print ("
  <link rel='stylesheet' href='need\bootstrap-4.0.0-beta\css\bootstrap.css'>
- <link rel='stylesheet' href='need\font-awsome-4.7.0\css\font-awsome.min.css'>
+ <link rel='stylesheet' href='need\font-awesome-4.7.0\css\font-awesome.min.css'>
  <script src='need/jquery-2.1.4.min.js'></script>
  
  
