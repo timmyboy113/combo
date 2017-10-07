@@ -14,6 +14,7 @@ print('
 <div align="center">
 
     <button type="button" class="btn btn-outline-dark" onclick="window.location.href=\'js-load-textfile.php\'">Load textfile</button>
+    <button type="button" class="btn btn-outline-dark" onclick="window.location.href=\'js-change_color.php\'">Change color</button>
 
 
 </div>
