@@ -40,5 +40,5 @@ print('<div align="center">
     
 ');
 
-
+include 'need/bottm-menu.php';
 ?>

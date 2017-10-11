@@ -10,8 +10,8 @@
 
 print("
 
-<nav class=\"navbar navbar-expand-lg navbar-light bg-light\">
-  <a class=\"navbar-brand\" href=\"#\">Navbar</a>
+<nav  class=\"navbar navbar-expand-lg navbar-light \" style='background-color:#ee4d2e; color:#161618' >
+  <a class=\"navbar-brand\" href=\"#\" >Combo</a>
   <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">
     <span class=\"navbar-toggler-icon\"></span>
   </button>
@@ -30,6 +30,13 @@ print("
     </ul>
   </div>
 </nav>
+
+
+
+
+
+
+
 
 ");
 

@@ -13,23 +13,22 @@ print("
 
       <script >
          $(document).ready(function() {
-            $(\"#driver\").click(function(event){
-               $('#stage').css('color', 'red')
+            $(\"#output\").click(function(event){
+               $('#output').replaceWith('<h1>Hallo. Ich bin der Output :3</h1>');
             });
          });
       </script>
 
 
-<div align='center'>
 
-  <div id = \"stage\">
-         <h1 bg-color='blue'>Ich bin Rot</h1>
+
+  <div id = \"output\" align='center'>
+         <h3>klicke auf mich</h3>
       </div>
 		
-      <input type = \"button\" id = \"driver\" value = \"Change color\" />
 		
 
-</div>
+
 ");
 
 

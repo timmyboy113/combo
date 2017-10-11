@@ -36,5 +36,21 @@ print ("
 
 
 
+print("
+<!--  open body for main content  -->
 
+<body style='background-color:#161618; color:#f2f5f4;' >
+
+
+<script>
+$(document).ready(function() {
+    <!-- set white textcolor for #output  -->
+    $('#output').css('color','white')
+    
+}
+</script>
+
+
+
+");
 ?>
