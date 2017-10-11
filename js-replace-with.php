@@ -14,7 +14,7 @@ print("
       <script >
          $(document).ready(function() {
             $(\"#output\").click(function(event){
-               $('#output').replaceWith('<h1>Hallo. Ich bin der Output :3</h1>');
+               $('#output').replaceWith('<h1 align=\"center\" >Hallo. Ich bin der Output :3</h1>');
             });
          });
       </script>
